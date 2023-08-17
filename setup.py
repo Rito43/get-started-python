@@ -8,6 +8,8 @@ from setuptools import setup, find_packages
 from codecs import open
 from os import path
 
+# THIS IS MY SECOND COMMENT
+
 here = path.abspath(path.dirname(__file__))
 
 # Get the long description from the README file
