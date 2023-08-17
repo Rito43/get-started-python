@@ -6,6 +6,8 @@ import json
 
 app = Flask(__name__, static_url_path='')
 
+# This is comment
+
 db_name = 'mydb'
 client = None
 db = None
